@@ -101,7 +101,7 @@ Some tasks will require a model that can produce multiple outputs. One such task
 
 ### 3.1 Preparing the Data
 
-To get started, download the dataset from [here](https://archive-beta.ics.uci.edu/dataset/608/traffic+flow+forecasting) and extract the `.mat` file into the local `data` directory. A notebook has been provided which demonstrates loading the data into a `numpy` array.
+To get started, download the dataset from [here]([https://archive-beta.ics.uci.edu/dataset/608/traffic+flow+forecasting](https://archive.ics.uci.edu/ml/machine-learning-databases/00630/)) and extract the `.mat` file into the local `data` directory. A notebook has been provided which demonstrates loading the data into a `numpy` array.
 
 ### 3.2 Training
 
